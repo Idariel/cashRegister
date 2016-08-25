@@ -1,0 +1,19 @@
+p{
+  font-family: sans-serif,arial,helvetica;
+  font-size: 0.9em;
+  margin : 0.5% 3%;
+}
+.annotation{
+  font-size: 0.7em;
+  font-style: italic;
+}
+.italique{
+  font-style: italic;
+}
+.petit{
+  font-size: 0.8em;
+}
+.strong{
+  font-weight: bold;
+  font-size: 1em;
+}
